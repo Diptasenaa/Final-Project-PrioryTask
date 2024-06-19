@@ -1,0 +1,14 @@
+C:\Users\user\Documents\C#\Struktur Data\Final Project\PrioryTask_V2\PrioryTask_V2\bin\Debug\net8.0\PrioryTask_V2.exe
+C:\Users\user\Documents\C#\Struktur Data\Final Project\PrioryTask_V2\PrioryTask_V2\bin\Debug\net8.0\PrioryTask_V2.deps.json
+C:\Users\user\Documents\C#\Struktur Data\Final Project\PrioryTask_V2\PrioryTask_V2\bin\Debug\net8.0\PrioryTask_V2.runtimeconfig.json
+C:\Users\user\Documents\C#\Struktur Data\Final Project\PrioryTask_V2\PrioryTask_V2\bin\Debug\net8.0\PrioryTask_V2.dll
+C:\Users\user\Documents\C#\Struktur Data\Final Project\PrioryTask_V2\PrioryTask_V2\bin\Debug\net8.0\PrioryTask_V2.pdb
+C:\Users\user\Documents\C#\Struktur Data\Final Project\PrioryTask_V2\PrioryTask_V2\obj\Debug\net8.0\PrioryTask_V2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\C#\Struktur Data\Final Project\PrioryTask_V2\PrioryTask_V2\obj\Debug\net8.0\PrioryTask_V2.AssemblyInfoInputs.cache
+C:\Users\user\Documents\C#\Struktur Data\Final Project\PrioryTask_V2\PrioryTask_V2\obj\Debug\net8.0\PrioryTask_V2.AssemblyInfo.cs
+C:\Users\user\Documents\C#\Struktur Data\Final Project\PrioryTask_V2\PrioryTask_V2\obj\Debug\net8.0\PrioryTask_V2.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\C#\Struktur Data\Final Project\PrioryTask_V2\PrioryTask_V2\obj\Debug\net8.0\PrioryTask_V2.dll
+C:\Users\user\Documents\C#\Struktur Data\Final Project\PrioryTask_V2\PrioryTask_V2\obj\Debug\net8.0\refint\PrioryTask_V2.dll
+C:\Users\user\Documents\C#\Struktur Data\Final Project\PrioryTask_V2\PrioryTask_V2\obj\Debug\net8.0\PrioryTask_V2.pdb
+C:\Users\user\Documents\C#\Struktur Data\Final Project\PrioryTask_V2\PrioryTask_V2\obj\Debug\net8.0\PrioryTask_V2.genruntimeconfig.cache
+C:\Users\user\Documents\C#\Struktur Data\Final Project\PrioryTask_V2\PrioryTask_V2\obj\Debug\net8.0\ref\PrioryTask_V2.dll
