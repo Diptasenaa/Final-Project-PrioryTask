@@ -5,7 +5,7 @@ Anggota:
 - Lucky Virgiawan Dwi Widodo 5053231007
 - Dipta Sena Alfarehzi Djomi 5053231033
 
-Cara Kerja dalam Aplikasi PrioryTask\n
+Cara Kerja dalam Aplikasi PrioryTask
 Aplikasi PrioryTask menggunakan LinkedList untuk menyimpan tugas dan Queue untuk mengelola urutan tugas yang harus diselesaikan. Berikut adalah penjelasan detail tentang bagaimana kedua struktur data ini bekerja sama dalam aplikasi ini.
 Menyimpan Data Tugas dengan LinkedList
 Penyimpanan: Setiap tugas yang ditambahkan oleh pengguna disimpan dalam node LinkedList.
