@@ -1,0 +1,28 @@
+C:\Users\user\Documents\C#\Struktur Data\Final Project\PrioryTask\PrioryTask\bin\Debug\net8.0\PrioryTask.exe
+C:\Users\user\Documents\C#\Struktur Data\Final Project\PrioryTask\PrioryTask\bin\Debug\net8.0\PrioryTask.deps.json
+C:\Users\user\Documents\C#\Struktur Data\Final Project\PrioryTask\PrioryTask\bin\Debug\net8.0\PrioryTask.runtimeconfig.json
+C:\Users\user\Documents\C#\Struktur Data\Final Project\PrioryTask\PrioryTask\bin\Debug\net8.0\PrioryTask.dll
+C:\Users\user\Documents\C#\Struktur Data\Final Project\PrioryTask\PrioryTask\bin\Debug\net8.0\PrioryTask.pdb
+C:\Users\user\Documents\C#\Struktur Data\Final Project\PrioryTask\PrioryTask\obj\Debug\net8.0\PrioryTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\C#\Struktur Data\Final Project\PrioryTask\PrioryTask\obj\Debug\net8.0\PrioryTask.AssemblyInfoInputs.cache
+C:\Users\user\Documents\C#\Struktur Data\Final Project\PrioryTask\PrioryTask\obj\Debug\net8.0\PrioryTask.AssemblyInfo.cs
+C:\Users\user\Documents\C#\Struktur Data\Final Project\PrioryTask\PrioryTask\obj\Debug\net8.0\PrioryTask.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\C#\Struktur Data\Final Project\PrioryTask\PrioryTask\obj\Debug\net8.0\PrioryTask.dll
+C:\Users\user\Documents\C#\Struktur Data\Final Project\PrioryTask\PrioryTask\obj\Debug\net8.0\refint\PrioryTask.dll
+C:\Users\user\Documents\C#\Struktur Data\Final Project\PrioryTask\PrioryTask\obj\Debug\net8.0\PrioryTask.pdb
+C:\Users\user\Documents\C#\Struktur Data\Final Project\PrioryTask\PrioryTask\obj\Debug\net8.0\PrioryTask.genruntimeconfig.cache
+C:\Users\user\Documents\C#\Struktur Data\Final Project\PrioryTask\PrioryTask\obj\Debug\net8.0\ref\PrioryTask.dll
+C:\Users\ASUS\Documents\PrioryTask\PrioryTask\bin\Debug\net8.0\PrioryTask.exe
+C:\Users\ASUS\Documents\PrioryTask\PrioryTask\bin\Debug\net8.0\PrioryTask.deps.json
+C:\Users\ASUS\Documents\PrioryTask\PrioryTask\bin\Debug\net8.0\PrioryTask.runtimeconfig.json
+C:\Users\ASUS\Documents\PrioryTask\PrioryTask\bin\Debug\net8.0\PrioryTask.dll
+C:\Users\ASUS\Documents\PrioryTask\PrioryTask\bin\Debug\net8.0\PrioryTask.pdb
+C:\Users\ASUS\Documents\PrioryTask\PrioryTask\obj\Debug\net8.0\PrioryTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Documents\PrioryTask\PrioryTask\obj\Debug\net8.0\PrioryTask.AssemblyInfoInputs.cache
+C:\Users\ASUS\Documents\PrioryTask\PrioryTask\obj\Debug\net8.0\PrioryTask.AssemblyInfo.cs
+C:\Users\ASUS\Documents\PrioryTask\PrioryTask\obj\Debug\net8.0\PrioryTask.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\PrioryTask\PrioryTask\obj\Debug\net8.0\PrioryTask.dll
+C:\Users\ASUS\Documents\PrioryTask\PrioryTask\obj\Debug\net8.0\refint\PrioryTask.dll
+C:\Users\ASUS\Documents\PrioryTask\PrioryTask\obj\Debug\net8.0\PrioryTask.pdb
+C:\Users\ASUS\Documents\PrioryTask\PrioryTask\obj\Debug\net8.0\PrioryTask.genruntimeconfig.cache
+C:\Users\ASUS\Documents\PrioryTask\PrioryTask\obj\Debug\net8.0\ref\PrioryTask.dll
